@@ -74,7 +74,7 @@ const LoveMessage = ({ started }: LoveMessageProps) => {
         className="font-sans text-sm sm:text-base tracking-[0.15em] mt-2 animate-text-reveal text-muted-foreground font-light"
         style={{ animationDelay: "12s" }}
       >
-        — Fahad
+        (ღˇ◡ˇ)♥ 𝙁𝙖𝙝𝙪𝙪 ♥ℒᵒᵛᵉᵧₒᵤ♥
       </p>
     </div>
   );
